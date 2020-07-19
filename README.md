@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  [Here's my blog](https://drscotthawley.github.io/blog/).
 
 <!--
 **drscotthawley/drscotthawley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
