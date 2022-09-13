@@ -1,4 +1,7 @@
 ### Hi there 👋  [Here's my blog](https://drscotthawley.github.io/blog/).
+Most of my repos are publically-posted but only privately-useful.
+
+The few codes I regularly maintain for public use are SHAART, aeiou, prefigure,...and a few others. 
 
 <!--
 **drscotthawley/drscotthawley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
