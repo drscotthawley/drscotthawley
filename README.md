@@ -1,5 +1,5 @@
 ### Hi there 👋  [Here's my blog](https://drscotthawley.github.io/blog/).
-Most of my repos are public-facing but only privately-useful. Some are one-offs for publications/conferences, others are just exploratory. The few codes I regularly maintain & support for public use are SHAART, aeiou, prefigure,...and a few others. 
+Most of my repos are public-facing but only privately-useful. Some are one-offs for publications/conferences, others are just exploratory. The few codes I regularly maintain & support for public use are SHAART, aeiou, prefigure, fad_pytorch,...and a few others. 
 
 <!--
 **drscotthawley/drscotthawley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
